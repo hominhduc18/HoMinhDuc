@@ -8,11 +8,11 @@
 
 ## 🚀 Về tôi
 
-- 🔭 Tôi hiện đang làm việc tại **[Công ty/Dự án của bạn]**
+- 🔭 Tôi hiện đang là một lập trinh viên **[Backend Developer(.NET)]**
 - 🌱 Tôi đang học **[Công nghệ bạn đang học]**
 - 👯 Tôi muốn hợp tác trong các dự án **[Loại dự án bạn quan tâm]**
 - 💬 Hỏi tôi về **[Chuyên môn của bạn]**
-- 📫 Liên hệ: **[email của bạn]**
+- 📫 Liên hệ: **[hoduc092@gmail.com]**
 - ⚡ Sự thật thú vị: **[Điều thú vị về bạn]**
 
 ---
