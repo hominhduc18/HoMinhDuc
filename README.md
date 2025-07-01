@@ -29,8 +29,8 @@
 <br>
 </li>
 </ul>
-<h2 id="---my-competitive-programming-profiles"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"> </picture> My Competitive Programming Profiles</h2>
-<p align="center">
+<!-- <h2 id="---my-competitive-programming-profiles"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"> </picture> My Competitive Programming Profiles</h2> -->
+<!-- <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"></a>
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"></a>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px/"></a>
@@ -47,7 +47,7 @@
 	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&amp;logo=snapchat&amp;logoColor=black" alt="Snap Chat"></a>
-</p>
+</p> -->
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="----programming-languages"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">  </picture> Programming languages</h3>
 <p align="center"> 
