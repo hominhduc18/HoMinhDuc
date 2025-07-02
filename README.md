@@ -42,6 +42,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hominhduc18&theme=radical" alt="Activity Graph">
 </p>
 
+<h3 align="left">🐍 GitHub Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://github.com/hominhduc18/hominhduc18/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 <hr>
 <p>Credit: <a href="https://github.com/hominhduc18">hominhduc18</a>
 </p> 
