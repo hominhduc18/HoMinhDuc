@@ -23,10 +23,6 @@
   </a>
 </p>
 <h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hominhduc18&show_icons=true&locale=en&theme=radical" alt="hominhduc18" height="180px"/>
-</p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h3 align="left">🔥 GitHub Streak:</h3>
