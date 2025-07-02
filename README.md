@@ -30,10 +30,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hominhduc18&theme=radical" alt="Activity Graph">
 </p>
-<h3 align="left">📅 Contribution Calendar:</h3>
-<p align="center">
-  <img src="https://github.com/hominhduc18/hominhduc18/blob/output/github-contribution-grid-snake.svg" alt="contributions snake">
-</p>
 <hr>
 <p>Credit: <a href="https://github.com/hominhduc18">hominhduc18</a>
 </p> 
