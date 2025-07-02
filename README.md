@@ -26,7 +26,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hominhduc18&show_icons=true&locale=en&theme=radical" alt="hominhduc18" height="180px"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hominhduc18&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -42,11 +41,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hominhduc18&theme=radical" alt="Activity Graph">
 </p>
 
-<h3 align="left">🐍 GitHub Contribution Snake:</h3>
 
-<p align="center">
-  <img src="https://github.com/hominhduc18/hominhduc18/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 <hr>
 <p>Credit: <a href="https://github.com/hominhduc18">hominhduc18</a>
