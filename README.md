@@ -15,15 +15,31 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40">
   </a>
+</p>
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hominhduc18&show_icons=true&locale=en&theme=radical" alt="hominhduc18" height="180px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hominhduc18&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+</p>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h3 align="left">🔥 GitHub Streak:</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hominhduc18&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<h3 align="left">📈 GitHub Activity Graph:</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hominhduc18&theme=radical" alt="Activity Graph">
 </p>
 
 <hr>
