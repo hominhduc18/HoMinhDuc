@@ -22,17 +22,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40">
   </a>
 </p>
-<h3 align="left">📊 GitHub Stats:</h3>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
 <h3 align="left">🔥 GitHub Streak:</h3>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hominhduc18&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
 <h3 align="left">📈 GitHub Activity Graph:</h3>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hominhduc18&theme=radical" alt="Activity Graph">
 </p>
